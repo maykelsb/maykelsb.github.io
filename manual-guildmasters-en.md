@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Manual Guildmasters
+title: Manual Guildmasters EN
 permalink: /manual/guildmasters-en
 ---
