@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Manual Guildmasters EN
-permalink: /manual/guildmasters-en
+permalink: /manual/en/guildmasters
 ---
