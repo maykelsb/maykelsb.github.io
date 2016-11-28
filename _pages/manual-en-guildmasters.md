@@ -5,6 +5,7 @@ permalink: /bg/en/guildmasters
 ---
 * TableOfContents
 {:toc}
+
 # Object of the game
 Players compete against each other to be the most renowned guild of the kingdom. To achieve that, players take turns using skills of its adventurers, recruiting new adventurers or sending them to fulfill quests. Fulfill quests is the utmost object for players, as it is the main way to gain prestige for his guild.
 
