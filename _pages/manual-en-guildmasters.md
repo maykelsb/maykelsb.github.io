@@ -12,26 +12,22 @@ Players compete against each other to be the most renowned guild of the kingdom.
 
 # Components
 
-- 58 adventurer cards;
-- 34 quest cards;
-- 4 help cards with adventurer power descriptions and game phases;
-- 4 help cards with extra points description;
-- 18 recruitment tokens;
-- 15 reward tokens;
-- 18 cycle tokens, 6 of each arcane, shadowy and militar
+- 64 adventurer cards;
+- 45 quest cards;
+- 4 player aid cards;
+- 50 recruit cards;
 - 2 boards
 
 ## Componente overview
 
 ### Adventurers
-An adventurer card has this attributes:
-- Class icon: An icon which represents this kind of adventurer, there are 10 of then. Icon classes are used to depict missions requirements;
-- Adventurer level: Represented by stars. The more stars, higher levels and rarest adventurers;
-- Class picture: An image of this type of adventurer;
-- Ability box: An image hint of the class ability;
-- Cycle: An image of the class cycle (arcane, shadowy and militar) - not implemented yet.
-
-
+Adventurer cards are used to fulfill quests and active abilities, you can also use them to recruit new adventurers at the tavern.
+![Adventurer card](/assets/img/bg/gm/personagem.png)
+1. **Class icon**: Identifies an adventurer class;
+1. **Class name**: Adventurer class name;
+1. **Subclass icons**: Depict subclasses of the main class. An adventurer can replace an adventurer of its subclass.
+1. **Class picture**: The class picture;
+1. **Class ability**: The ability of this class.
 
 A quest card has this attributes:
 - Shield: The region from where the quest happens - there are 4 regions;
