@@ -23,6 +23,7 @@ Players compete against each other to be the most renowned guild of the kingdom.
 ### Adventurers
 Adventurer cards are used to fulfill quests and active abilities, you can also use them to recruit new adventurers at the tavern.
 ![Adventurer card](/assets/img/bg/gm/personagem.png)
+
 1. **Class icon**: Identifies an adventurer class;
 1. **Class name**: Adventurer class name;
 1. **Subclass icons**: Depict subclasses of the main class. An adventurer can replace an adventurer of its subclass.
