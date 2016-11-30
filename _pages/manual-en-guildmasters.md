@@ -21,23 +21,27 @@ Players compete against each other to be the most renowned guild of the kingdom.
 ## Componente overview
 
 ### Adventurers
-Adventurer cards are used to fulfill quests and active abilities, you can also use them to recruit new adventurers at the tavern.
+Adventurer cards are used to fulfill quests and active abilities, you can also use them to recruit new adventurers at the tavern. An recruit card is the same as an adventurer card, but it doesn't have an ability.
+
 ![Adventurer card](/assets/img/bg/gm/personagem.png)
 
 1. **Class icon**: Identifies an adventurer class;
 1. **Class name**: Adventurer class name;
 1. **Subclass icons**: Depict subclasses of the main class. An adventurer can replace an adventurer of its subclass.
 1. **Class picture**: The class picture;
-1. **Class ability**: The ability of this class.
+1. **Class ability**: The ability of this class, what it can do when discarded.
 
-A quest card has this attributes:
-- Shield: The region from where the quest happens - there are 4 regions;
-- Mission level: Represented by its star count;
-- Mission requirements: Shows which adventurers are needed to fulfill this quest;
-- Rewards: Depict the rewards offered to the guild which fulfill the quest. Can be: prestige points, cycle tokens or recruitment tokens.
+### Quest
+Quest cards are the core of the game. The reward players with points and adventurers. 
 
+![Quest card](/assets/img/bg/gm/missao.png)
 
-
+1. **Quest text**: A description of the mission;
+1. **Quest level**: It's the mission leval it goes from 1 to 3;
+1. **Quest requisites**: List of adventurers needed to fulfill the quest;
+1. **Quest shield**: Represents the location where the quest takes place;
+1. **Quest rewards**: Rewards earned by the player whose fulfill the quest. Can be points or recruits;
+1. **Quest number**: Used to identify a quest.
 
 # Setup
 1. **Prepare quests**: Each quest deck is separated by levels. Shuffle then and revel 3 quests from each of them, the remaining quests stays face down in its "quest deck";
