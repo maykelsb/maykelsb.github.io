@@ -16,7 +16,8 @@ Players compete against each other to be the most renowned guild of the kingdom.
 - 45 quest cards;
 - 4 player aid cards;
 - 50 recruit cards;
-- 2 boards
+- 1 board;
+- 4 guild boards.
 
 ## Componente overview
 
