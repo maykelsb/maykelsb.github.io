@@ -14,6 +14,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 45 cartas de missões;
 - 4 cartas de referência;
 - 50 cartas de recrutas;
+  - 5 cartas de assassinos;
 - 1 tabuleiro;
 - 4 tabuleiros de guildas, em 4 cores diferentes;
 - 4 marcadores de pontos, em 4 cores diferentes;
