@@ -15,6 +15,14 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 4 cartas de referência;
 - 50 cartas de recrutas;
   - 5 cartas de assassinos;
+  - 5 cartas de ladinas;
+  - 4 cartas de caçadores
+  - 5 cartas de guerreiros;
+  - 5 cartas de arqueiros;
+  - 4 cartas de monges;
+  - 5 cartas de clérigos;
+  - 5 cartas de magos;
+  - 5 cartas de necromancers.
 - 1 tabuleiro;
 - 4 tabuleiros de guildas, em 4 cores diferentes;
 - 4 marcadores de pontos, em 4 cores diferentes;
