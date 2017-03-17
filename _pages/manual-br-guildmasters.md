@@ -60,7 +60,11 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 ## Cartas de recrutas
 Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. Embora eles **não** tenham habilidades, elas permanecem na sua guilda até o final do jogo. Quando uma carta de recruta é utilizada em uma missão, ou assassinada, ela é exaurida e só pode ser utilizada na rodada seguinte.
 
+(**imagem pendente**)
 
+1. **Símbolo**: Identifica a classe do recruta;
+1. **Classe**: O nome da classe do recruta;
+1. **Imagem**: A imagem daquela classe de recruta.
 
 ## Cartas de missões
 
