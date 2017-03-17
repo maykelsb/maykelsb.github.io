@@ -36,13 +36,12 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
   - 5 cartas de magos
   - 4 cartas de necromancers
 - 4 cartas de referência
-- 1 tabuleiro
-- 4 tabuleiros de guildas, em 4 cores diferentes
+- 1 tabuleiro (**pendente**)
+- 4 tabuleiros de guildas, em 4 cores diferentes (**pendente**)
 - 4 marcadores de pontos, em 4 cores diferentes
 - 4 marcadores de mestre da guilda, em 4 cores diferentes
-- 12 marcadores de tempo
+- 12 marcadores de tempo (**pendente**)
 - 10 marcadores de assassinato
-- 10 marcadores de bardo
 - 2 dados, em duas cores diferentes
-- 1 dado de arqueiro
+- 1 dado de arqueiro (**pendente**)
 - 1 marcador de sentido de draft
