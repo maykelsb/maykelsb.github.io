@@ -52,20 +52,28 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 
 (**imagem pendente**)
 
-1. **Símbolo**: Identifica a classe do herói;
-1. **Classe**: O nome da classe do herói;
-1. **Imagem**: A imagem daquela classe de herói;
-1. **Habilidade**: A habilidade executada pelo herói ao ser ativado.
+1. Símbolo da classe do herói;
+1. O nome da classe do herói;
+1. A imagem do herói;
+1. Habilidade executada pelo herói ao ser ativado.
 
 ## Cartas de recrutas
 Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. Embora eles **não** tenham habilidades, elas permanecem na sua guilda até o final do jogo. Quando uma carta de recruta é utilizada em uma missão, ou assassinada, ela é exaurida e só pode ser utilizada na rodada seguinte.
 
 (**imagem pendente**)
 
-1. **Símbolo**: Identifica a classe do recruta;
-1. **Classe**: O nome da classe do recruta;
-1. **Imagem**: A imagem daquela classe de recruta.
+1. Símbolo da classe do recruta;
+1. O nome da classe do recruta;
+1. A imagem do recruta.
 
 ## Cartas de missões
+Para uma guilda completar uma missão e receber a sua recompensa, é preciso reunir os heróis requisitados para a missão. Além dos pontos de prestígio, missões de nível 1 e nível 2 também oferecem um recruta como recompensa.
+
+1. Descrição da missão;
+1. Nível da missão, varia de 1 a 3;
+1. Lista de heróis necessários para cumprir a missão;
+1. Brasão da região onde acontece a missão, são 5 escudos diferentes;
+1. Pontos de prestígio da missão;
+1. Identifica a missão.
 
 ##
