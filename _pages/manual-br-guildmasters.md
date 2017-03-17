@@ -45,3 +45,21 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 2 dados, em duas cores diferentes
 - 1 dado de arqueiro (**pendente**)
 - 1 marcador de sentido de draft
+
+# Dissecando componentes
+## Cartas de heróis
+As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles, pois eles vão e vem no decorrer do jogo. Os heróis são utilizados para cumprir missões e conseguir novos recrutas na taverna. Além disso, cada herói te uma habilidade especial que pode ser utilizada em favor da sua guilda.
+
+(**imagem pendente**)
+
+1. **Símbolo**: Identifica a classe do herói;
+1. **Classe**: O nome da classe do herói;
+1. **Imagem**: A imagem daquela classe de herói;
+1. **Habilidade**: A habilidade executado pelo herói ao ser ativado.
+
+## Cartas de recrutas
+
+
+## Cartas de missões
+
+##
