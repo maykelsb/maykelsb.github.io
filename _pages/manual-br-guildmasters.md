@@ -80,4 +80,6 @@ Para uma guilda completar uma missão e receber a sua recompensa, é preciso reu
 
 ## Preparação do jogo ##
 ### Baralhos de missões ###
-As cartas de missão são separadas por níveis. Embaralhe as missões de mesmo nível em um único baralho e os coloque no lugar apropriado. Releve três missões de nível 1 e mais três missões de nível 2. As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de prestígio;
+As cartas de missão são separadas por níveis. Embaralhe as missões de mesmo nível em um único baralho e os coloque no lugar apropriado. Releve três missões de nível 1 e mais três missões de nível 2.
+
+**Importante**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de prestígio;
