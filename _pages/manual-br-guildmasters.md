@@ -78,22 +78,22 @@ Para uma guilda completar uma missão e receber a sua recompensa, é preciso reu
 1. Pontos de prestígio da missão;
 1. Identifica a missão.
 
-## Preparação do jogo ##
+# Preparação do jogo #
 
 (**imagem pendente**)
 
-### Baralhos de missões ###
+## Baralhos de missões ##
 As cartas de missão são separadas por níveis. Embaralhe as missões de mesmo nível em um único baralho e os coloque no lugar apropriado **pendente**). Releve três missões de nível 1 e mais três missões de nível 2.
 
 **IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de prestígio.
 
-### Ordem de jogadores ###
+## Ordem de jogadores ##
 O primeiro jogadore é aquele que visitou uma guilda a menos tempo, e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores de mestre da guilda nas área apropriada (**pendente**) seguindo a ordem definida.
 
-### Recrutas ###
+## Recrutas ##
 O baralho de recrutas deve ser embaralhado e colocado na área apropriada na **Taverna** (**pendente**). Revele um número de recrutas igual ao número de jogadores + 1. Eles estão disponíveis para recrutamento.
 
-### Contadores e dados ###
+## Contadores e dados ##
 Faça as pilhas de marcadores ao lado do tabuleiro e deixe os dados por perto.
 
 
