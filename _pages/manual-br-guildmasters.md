@@ -96,6 +96,9 @@ O baralho de recrutas deve ser embaralhado e colocado na área apropriada na **T
 ## Contadores e dados ##
 Faça uma pilha com os marcadores ao lado do tabuleiro e deixe os dados por perto.
 
+# Fases do jogo #
+O jogo é dividido em rodadas, divididas entre drafts, turnos dos jogadores e manutenção.
 
-
+# Final do jogo #
+O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
 
