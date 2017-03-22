@@ -94,7 +94,7 @@ O primeiro jogadore é aquele que visitou uma guilda a menos tempo, e o último 
 O baralho de recrutas deve ser embaralhado e colocado na área apropriada na **Taverna** (**pendente**). Revele um número de recrutas igual ao número de jogadores + 1. Eles estão disponíveis para recrutamento.
 
 ## Contadores e dados ##
-Faça as pilhas de marcadores ao lado do tabuleiro e deixe os dados por perto.
+Faça uma pilha com os marcadores ao lado do tabuleiro e deixe os dados por perto.
 
 
 
