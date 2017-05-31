@@ -108,7 +108,7 @@ O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de h
 
 ## Turno dos jogadores ##
 
-
+## Manutenção ##
 
 
 
