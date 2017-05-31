@@ -97,14 +97,14 @@ O baralho de recrutas deve ser embaralhado e colocado na área apropriada na **T
 Faça uma pilha com os marcadores ao lado do tabuleiro e deixe os dados por perto.
 
 # Fases do jogo #
-O jogo é dividido em rodadas, divididas entre __drafts__, turnos dos jogadores e manutenção.
+O jogo é dividido em rodadas, divididas entre _drafts_, turnos dos jogadores e manutenção.
 
 ## Draft ##
-O __draft__ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de heróis, escolhe uma para si e passa as demais para a direita ou esquerda. Isso se repete até que todas as cartas tenham sido escolhidas. O sentido do __draft__ segue conforme indicado no tabuleiro principal.
+O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de heróis, escolhe uma para si e passa as demais para a direita ou esquerda. Isso se repete até que todas as cartas tenham sido escolhidas. O sentido do _draft_ segue conforme indicado no tabuleiro principal.
 
 **Dois jogadores**: Nesta modalidade, o draft é realizado um pouco diferente. Cada jogador compra duas cartas, escolhe uma e passa a outra para o oponente. Repita até que cada jogador tenha recebido 4 cartas.
 
-**Primeiro draft**: O _draft_ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo __draft__ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
+**Primeiro draft**: O _draft_ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo _draft_ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
 
 # Final do jogo #
 O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
