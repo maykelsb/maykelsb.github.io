@@ -104,7 +104,7 @@ O __draft__ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de
 
 **Dois jogadores**: Nesta modalidade, o draft é realizado um pouco diferente. Cada jogador compra duas cartas, escolhe uma e passa a outra para o oponente. Repita até que cada jogador tenha recebido 4 cartas.
 
-**Primeiro** **__draft__**: O __draft__ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo __draft__ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
+**Primeiro draft**: O __draft__ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo __draft__ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
 
 # Final do jogo #
 O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
