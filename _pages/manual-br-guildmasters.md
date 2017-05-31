@@ -9,7 +9,7 @@ permalink: /bg/br/guildmasters
 # Objetivo do jogo
 Os jogadores competem uns contra os outros para se tornar a guilda mais famosa do reino. Para atingir este objetivo, os jogadores devem utilizar as recrutar heróis, cumprir missões e usar sabiamente as habilidades de seus heróis em sua vantagem. Como a principal fonte de prestígio são as missões, elas são o objetivo principal dos jogadores.
 
-# Componentes
+# Lista de componentes
 - 45 cartas de missões
   - 15 cartas de nível 1
   - 15 cartas de nível 2
@@ -45,8 +45,9 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 2 dados, em duas cores diferentes
 - 1 dado de arqueiro (**pendente**)
 - 1 marcador de sentido de draft
+- 1 marcador de fim de jogo (**pendente**)
 
-# Dissecando componentes
+# Detalhando componentes
 ## Cartas de heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles, pois eles vão e vem no decorrer do jogo. Os heróis são utilizados para cumprir missões e conseguir novos recrutas na taverna. Além disso, cada herói te uma habilidade especial que pode ser utilizada em favor da sua guilda.
 
