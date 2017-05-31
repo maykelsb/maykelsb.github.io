@@ -106,6 +106,13 @@ O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de h
 
 **Primeiro draft**: O _draft_ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo _draft_ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
 
+## Turno dos jogadores ##
+
+
+
+
+
+
 # Final do jogo #
 O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
 
