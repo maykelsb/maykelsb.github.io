@@ -45,7 +45,6 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 2 dados, em duas cores diferentes
 - 1 dado de arqueiro (**pendente**)
 - 1 marcador de sentido de draft
-- 1 marcador de fim de jogo (**pendente**)
 
 # Detalhando componentes
 ## Cartas de heróis
@@ -101,9 +100,11 @@ Faça uma pilha com os marcadores ao lado do tabuleiro e deixe os dados por pert
 O jogo é dividido em rodadas, divididas entre __drafts__, turnos dos jogadores e manutenção.
 
 ## Draft ##
-O __draft__ da inicio a uma rodada do jogo. Normalmente, cada jogador compar quatro cartas de heróis, escolhe uma e passa para a direita, ou esquerda. A exceção desta regra é o __draft__ para dois jogadores e o primeiro __draft__ da partida, que acontece duas vezes.
+O __draft__ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de heróis, escolhe uma para si e passa as demais para a direita ou esquerda. Isso se repete até que todas as cartas tenham sido escolhidas. O sentido do __draft__ segue conforme indicado no tabuleiro principal.
 
+**Dois jogadores**: Nesta modalidade, o draft é realizado um pouco diferente. Cada jogador compra duas cartas, escolhe uma e passa a outra para o oponente. Repita até que cada jogador tenha recebido 4 cartas.
 
+**Primeiro __draft__**: O __draft__ inicial acontece duas vezes. Após o primeiro, inverte-se o sentido e um novo __draft__ é realizado, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
 
 # Final do jogo #
 O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
