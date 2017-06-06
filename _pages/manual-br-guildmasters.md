@@ -108,7 +108,7 @@ O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de h
 
 ## Turno dos jogadores ##
 Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente e marcada no tabuleiro principal. Durante o seu turno, o jogadores pode realizar as seguintes ações, sem repetí-las:
- - Ativar uma carta de herói;
+ - Ativar um herói;
  - Realizar um recrutamento;
  - Cumprir uma missão.
 
