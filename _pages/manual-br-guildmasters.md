@@ -69,7 +69,7 @@ Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. E
 ## Cartas de missões
 Para uma guilda completar uma missão e receber a sua recompensa, é preciso reunir os heróis requisitados para a missão. Além dos pontos de prestígio, missões de nível 1 e nível 2 também oferecem um recruta como recompensa.
 
-(**imagem pendente**)
+![Carta de missão](/assets/bg/gm/questcard.png)
 
 1. Descrição da missão;
 1. Nível da missão, varia de 1 a 3;
