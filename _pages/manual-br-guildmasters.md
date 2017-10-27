@@ -15,26 +15,14 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
   - 15 cartas de nível 2
   - 15 cartas de nível 3
 - 72 cartas de heróis
-  - 8 cartas de assassinos
-  - 8 cartas de ladinas
-  - 6 cartas de caçadores
-  - 8 cartas de guerreiros
-  - 8 cartas de arqueiros
-  - 6 cartas de monges
-  - 8 cartas de clérigos
-  - 8 cartas de magos
-  - 6 cartas de necromancers
+  - 8 Assassinos / 8 Ladinas / 6 Caçadores
+  - 8 Guerreiros / 8 Arqueiros / 6 Monges
+  - 8 Clérigos / 8 Magos / 6 Necromancers
   - 6 cartas de bardos
 - 42 cartas de recrutas
-  - 5 cartas de assassinos
-  - 5 cartas de ladinas
-  - 4 cartas de caçadores
-  - 5 cartas de guerreiros
-  - 5 cartas de arqueiros
-  - 4 cartas de monges
-  - 5 cartas de clérigos
-  - 5 cartas de magos
-  - 4 cartas de necromancers
+  - 5 Assassinos / 5 Ladinas / 4 Caçadores
+  - 5 Guerreiros / 5 Arqueiros / 4 Monges
+  - 5 Clérigos / 5 Magos / 4 Necromancers
 - 4 cartas de referência
 - 1 tabuleiro (**pendente**)
 - 4 tabuleiros de guildas, em 4 cores diferentes (**pendente**)
