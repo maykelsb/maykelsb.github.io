@@ -7,7 +7,7 @@ permalink: /bg/br/guildmasters
 {:toc}
 
 # Objetivo do jogo
-Os jogadores competem uns contra os outros para se tornar a guilda mais famosa do reino. Para atingir este objetivo, os jogadores devem utilizar as recrutar heróis, cumprir missões e usar sabiamente as habilidades de seus heróis em sua vantagem. Como a principal fonte de prestígio são as missões, elas são o objetivo principal dos jogadores.
+Os jogadores competem uns contra os outros para se tornar a guilda mais famosa do reino. Para atingir este objetivo, os jogadores devem utilizar as recrutar heróis, cumprir missões e usar sabiamente as habilidades de seus heróis em sua vantagem. Como a principal fonte de fama são as missões, elas são o objetivo principal dos jogadores.
 
 # Lista de componentes
 - 45 cartas de missões
@@ -18,7 +18,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
   - 8 Assassinos / 8 Ladinas / 6 Caçadores
   - 8 Guerreiros / 8 Arqueiros / 6 Monges
   - 8 Clérigos / 8 Magos / 6 Necromancers
-  - 6 cartas de bardos
+  - 6 Bardos
 - 42 cartas de recrutas
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
@@ -36,7 +36,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 
 # Detalhando componentes
 ## Cartas de heróis
-As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles, pois eles vão e vem no decorrer do jogo. Os heróis são utilizados para cumprir missões e conseguir novos recrutas na taverna. Além disso, cada herói te uma habilidade especial que pode ser utilizada em favor da sua guilda.
+As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e conseguir novos recrutas na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
 
 (**imagem pendente**)
 
@@ -55,17 +55,17 @@ Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. E
 1. A imagem do recruta.
 
 ## Cartas de missões
-Para uma guilda completar uma missão e receber a sua recompensa, é preciso reunir os heróis requisitados para a missão. Além dos pontos de prestígio, missões de nível 1 e nível 2 também oferecem um recruta como recompensa.
+Para uma guilda completar uma missão e receber a sua recompensa, é preciso reunir os heróis requisitados para a missão. Além dos pontos de fama, missões de nível 1 e nível 2 também oferecem um recruta como recompensa.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
 1. Nome da missão;
 1. Descrição da missão;
-1. Grupo de heróis necessários para cumprir a missão;
+1. Grupo de heróis necessários para realizar a missão;
 1. Localização da missão;
-1. Pontos de fama da missão;
-1. Nível da missão;
-1. Bônus da missão; **==PENDENTE==**
+1. Pontos de fama recebidos ao realizar a missão;
+1. Classe de dificuldade da missão;
+1. Bônus recebido ao realizar a missão; **==PENDENTE==**
 1. Identificação da missão. **==PENDENTE==**
 
 # Preparação do jogo #
@@ -75,7 +75,7 @@ Para uma guilda completar uma missão e receber a sua recompensa, é preciso reu
 ## Baralhos de missões ##
 As cartas de missão são separadas por níveis. Embaralhe as missões de mesmo nível em um único baralho e os coloque no lugar apropriado **pendente**). Releve três missões de nível 1 e mais três missões de nível 2.
 
-**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de prestígio.
+**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
 
 ## Ordem de jogadores ##
 O primeiro jogadore é aquele que visitou uma guilda a menos tempo, e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores de mestre da guilda nas área apropriada (**pendente**) seguindo a ordem definida.
@@ -110,5 +110,5 @@ Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente 
 
 
 # Final do jogo #
-O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de prestígio. Na sequência, as pontuações adicionais são computadas. A guilda com o maior prestígio é a vencedora.
+O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de fama. Na sequência, as pontuações adicionais são computadas. A guilda com o maior fama é a vencedora.
 
