@@ -10,7 +10,7 @@ permalink: /bg/br/guildmasters
 Os jogadores competem uns contra os outros para se tornar a guilda mais famosa do reino. Para atingir este objetivo, os jogadores devem utilizar as recrutar heróis, cumprir missões e usar sabiamente as habilidades de seus heróis em sua vantagem. Como a principal fonte de fama são as missões, elas são o objetivo principal dos jogadores.
 
 # Lista de componentes
-- 45 cartas de missões
+- 45 cartas de missões, em 3 classes
   - 15 classe <span class="glyphicon glyphicon-star"></span> / 15 classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> / 15 classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>
 - 72 cartas de heróis
   - 8 Assassinos / 8 Ladinas / 6 Caçadores
