@@ -11,7 +11,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 
 # Lista de componentes
 - 45 cartas de missões
-  - 15 cartas de nível 1
+  - 15 nível <span class="glyphicon glyphicon-star"></span>
   - 15 cartas de nível 2
   - 15 cartas de nível 3
 - 72 cartas de heróis
