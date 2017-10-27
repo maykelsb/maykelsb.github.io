@@ -77,8 +77,8 @@ Para uma guilda completar uma missão e receber a sua recompensa, é preciso reu
 1. Localização da missão;
 1. Pontos de fama da missão;
 1. Nível da missão;
-1. Bônus da missão **--PENDENTE--**;
-1. Identificação da missão **--PENDENTE--**.
+1. Bônus da missão; **==PENDENTE==**
+1. Identificação da missão. **==PENDENTE==**
 
 # Preparação do jogo #
 
