@@ -71,12 +71,14 @@ Para uma guilda completar uma missão e receber a sua recompensa, é preciso reu
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
+1. Nome da missão;
 1. Descrição da missão;
-1. Nível da missão, varia de 1 a 3;
-1. Lista de heróis necessários para cumprir a missão;
-1. Brasão da região onde acontece a missão, são 5 escudos diferentes;
-1. Pontos de prestígio da missão;
-1. Identifica a missão.
+1. Grupo de heróis necessários para cumprir a missão;
+1. Localização da missão;
+1. Pontos de fama da missão;
+1. Nível da missão;
+1. Bônus da missão;
+1. Identificação da missão.
 
 # Preparação do jogo #
 
