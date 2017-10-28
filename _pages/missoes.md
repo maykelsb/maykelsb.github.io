@@ -4,9 +4,6 @@ title: Missoes
 permalink: /gm-missoes/
 ---
 
-
-
-
 Nível 1
 + Jogos de poder
 Segundo rumores, a Condessa Duvein contratou um grupo de assassinos para tomar o condado Sloan. Reforce a guarda do condado e mantenha Carlile no poder.
@@ -22,17 +19,17 @@ A cortesã Dri Bardot sofreu um atentado durante o Festival Lunar. Bardot, o Bar
 -- Thiago F.
 
 Nível 2
-++ Coração de aço negro
++ Coração de aço negro
 O clã dos artífices pagará uma boa recompensa para quem recuperar o antigo amuleto. Segundo fontes, ele está guardado na torre do castelo Karn.
 
-++ Catacumba dos Mortos
++ Catacumba dos Mortos
 A princesa dos Jardins Carmim foi aprisionada nas catacumbas sob a cidade. Aqueles que derrotarem o sumo sacerdote e libertarem Sharen serão bem recompensados pela rainha.
 
 
 
 Nível 3
-+++ Invasor de outro plano
++ Invasor de outro plano
 Depois da última incursão ao plano Untier, algo acompanhou os aventureiros em seu regresso e os deixou enlouquecidos nas montanhas. Seja qual for o horror, ele deve ser selado a qualquer custo.
 
-+++ Segredos da Lotus
++ Segredos da Lotus
 Os monges da Lotus Negra encontram um invasor em sua biblioteca. Após intenso combate, o invasor escapou rumo à fronteira leste. Lorde Nogdar não deve obter as escritas.
