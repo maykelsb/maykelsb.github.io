@@ -1,3 +1,12 @@
+---
+layout: page
+title: Missoes
+permalink: /gm-missoes/
+---
+
+
+
+
 Nível 1
 + Jogos de poder
 Segundo rumores, a Condessa Duvein contratou um grupo de assassinos para tomar o condado Sloan. Reforce a guarda do condado e mantenha Carlile no poder.
