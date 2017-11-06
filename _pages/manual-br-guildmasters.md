@@ -72,6 +72,9 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 1. Bônus recebido ao realizar a missão; **==PENDENTE==**
 1. Identificação da missão. **==PENDENTE==**
 
+## Guildas
+
+
 # Preparação do jogo #
 
 (**imagem pendente**)
@@ -81,7 +84,6 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
-## Guildas
 
 
 
