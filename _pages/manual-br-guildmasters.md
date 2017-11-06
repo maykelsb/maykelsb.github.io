@@ -17,7 +17,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
   - 8 Guerreiros / 8 Arqueiros / 6 Monges
   - 8 Clérigos / 8 Magos / 6 Necromancers
   - 6 Bardos
-- 42 cartas de recrutas
+- 42 cartas de novatos
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
   - 5 Clérigos / 5 Magos / 4 Necromancers
@@ -34,7 +34,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 
 # Detalhando componentes
 ## Cartas de heróis
-As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e conseguir novos recrutas na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
+As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
 
 (**imagem pendente**)
 
@@ -43,8 +43,8 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. A imagem do herói;
 1. Habilidade executada pelo herói ao ser ativado.
 
-## Cartas de recrutas
-Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. Embora os recrutas **não tenham habilidades**, eles permanecem na sua guilda até o final do jogo. Quando um recruta é utilizado em uma missão, ou assassinado, ele é exaurido e só pode ser utilizado na rodada seguinte.
+## Cartas de novatos
+Essencialmente, as cartas de novas são parecidas com as cartas de heróis. Embora os novatos **não tenham habilidades**, eles permanecem na sua guilda até o final do jogo. Quando um recruta é utilizado em uma missão, ou assassinado, ele é exaurido e só pode ser utilizado na rodada seguinte.
 
 (**imagem pendente**)
 
@@ -53,7 +53,15 @@ Essencialmente, as cartas de recrutas são parecidas com as cartas de heróis. E
 1. A imagem do recruta.
 
 ## Cartas de missões
-Para uma guilda completar uma missão e receber a sua recompensa, é preciso reunir os heróis requisitados para a missão. Além dos pontos de fama, missões de nível 1 e nível 2 também oferecem um recruta como recompensa.
+As cartas de missões são divididas em três classes diferentes, representadas por estrelas na carta. Cada classe de missão tem uma trilha diferente no tabuleiro principal.
+Ao completar uma missão de classe <span class="glyphicon glyphicon-star"></span>, o mestre da guilda recebe um novo recruta vindo da reserva de recrutas.
+Já ao completar uma missão de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>, o mestre da guilda pode escolher um dos recrutas disponíveis para recrutamento na taverna.
+
+Cada missão necessita de um grupo de heróis específicos. Estes heróis representam grupo ideal para o sucesso daquela missão. Sendo assim, para completar uma missão, o mestre da guilda deve enviar os heróis indicados para a missão, descartando-os. Ao completar uma missão, as guildas recebem os pontos de prestígio da missão, e mais:
+
+- Classe <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo aprendiz diretamente da reserva;
+- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda pode escolher um dos aprendizes disponíveis na taverna;
+- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou os benefícios especiais indicados na descrição da missão.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
