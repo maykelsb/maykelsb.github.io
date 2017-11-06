@@ -57,9 +57,9 @@ As cartas de missões são divididas em três classes diferentes, representadas 
 
 Cada missão necessita de um determinado grupo de heróis. Eles representam o grupo ideal para o sucesso daquela missão. Sendo assim, para completar uma missão o mestre da guilda deve enviar os heróis indicados nela, descartando-os. Ao completar uma missão, a guilda recebe pontos de prestígio e, adicionalmente, para cada classe de missão:
 
-- Classe <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
-- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
-- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou com benefícios especiais indicados na descrição da missão.
+- <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
+- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
+- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou com benefícios especiais indicados na descrição da missão.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
