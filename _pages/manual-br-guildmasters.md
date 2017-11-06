@@ -7,7 +7,7 @@ permalink: /bg/br/guildmasters
 {:toc}
 
 # Objetivo do jogo
-Os jogadores competem uns contra os outros para se tornar a guilda mais famosa do reino. Para atingir este objetivo, os jogadores devem utilizar as recrutar heróis, cumprir missões e usar sabiamente as habilidades de seus heróis em sua vantagem. Como a principal fonte de fama são as missões, elas são o objetivo principal dos jogadores.
+Cada jogador representa o mestre de uma guilda e é responsável por sua administração. Os mestres de guilda devem escolher sabiamente quais missões realizar, além de utilizar os heróis e suas habilidades em benefício da guilda. Quanto mais missões realizadas, mais prestígio a guilda receberá, e a guilda com maior prestígio é a vencedora. 
 
 # Lista de componentes
 - 45 cartas de missões, em 3 classes
