@@ -76,19 +76,13 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 (**imagem pendente**)
 
-## Baralhos de missões ##
-As cartas de missão são separadas por níveis. Embaralhe as missões de mesmo nível em um único baralho e os coloque no lugar apropriado **pendente**). Releve três missões de nível 1 e mais três missões de nível 2.
+- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Abra 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas.
+- **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
+- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
+- **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
-**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
 
-## Ordem de jogadores ##
-O primeiro jogadore é aquele que visitou uma guilda a menos tempo, e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores de mestre da guilda nas área apropriada (**pendente**) seguindo a ordem definida.
 
-## Recrutas ##
-O baralho de recrutas deve ser embaralhado e colocado na área apropriada na **Taverna** (**pendente**). Revele um número de recrutas igual ao número de jogadores + 1. Eles estão disponíveis para recrutamento.
-
-## Contadores e dados ##
-Faça uma pilha com os marcadores ao lado do tabuleiro e deixe os dados por perto.
 
 # Fases do jogo #
 O jogo é dividido em rodadas, divididas entre _drafts_, turnos dos jogadores e manutenção.
@@ -110,7 +104,7 @@ Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente 
 
 ## Manutenção ##
 
-
+**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
 
 
 # Final do jogo #
