@@ -59,7 +59,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 - <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
 - <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
-- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou com benefícios especiais indicados na descrição da missão.
+- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígio ou com benefícios especiais indicados na descrição da missão.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
