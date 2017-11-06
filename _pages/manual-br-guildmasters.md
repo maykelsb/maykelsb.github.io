@@ -44,7 +44,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. Habilidade executada pelo herói ao ser ativado.
 
 ## Cartas de recrutas
-Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. **==REVISAR==** Após cumprir uma missão ou ser assassinado, um recruta é enviado diretamente para a ala médica da guilda. **==REVISAR==**
+Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. **==REVISAR==** Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal. **==REVISAR==**
 
 (**imagem pendente**)
 
