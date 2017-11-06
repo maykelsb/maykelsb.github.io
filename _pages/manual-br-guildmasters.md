@@ -17,13 +17,13 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
   - 8 Guerreiros / 8 Arqueiros / 6 Monges
   - 8 Clérigos / 8 Magos / 6 Necromancers
   - 6 Bardos
-- 42 cartas de novatos
+- 42 cartas de recruta
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
   - 5 Clérigos / 5 Magos / 4 Necromancers
 - 4 cartas de referência
 - 1 tabuleiro (**pendente**)
-- 4 tabuleiros de guildas, em 4 cores diferentes (**pendente**)
+- 4 tabuleiros de guildas, em 4 cores diferentes (**==PENDENTE==**)
 - 4 marcadores de pontos, em 4 cores diferentes
 - 4 marcadores de mestre da guilda, em 4 cores diferentes
 - 12 marcadores de tempo (**pendente**)
@@ -43,8 +43,8 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. A imagem do herói;
 1. Habilidade executada pelo herói ao ser ativado.
 
-## Cartas de novatos
-Essencialmente, as cartas de novas são parecidas com as cartas de heróis. Embora os novatos **não tenham habilidades**, eles permanecem na sua guilda até o final do jogo. Quando um recruta é utilizado em uma missão, ou assassinado, ele é exaurido e só pode ser utilizado na rodada seguinte.
+## Cartas de recrutas
+Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. **==REVISAR==** Após cumprir uma missão ou ser assassinado, um recruta é enviado diretamente para a ala médica da guilda. **==REVISAR==**
 
 (**imagem pendente**)
 
@@ -53,15 +53,13 @@ Essencialmente, as cartas de novas são parecidas com as cartas de heróis. Embo
 1. A imagem do recruta.
 
 ## Cartas de missões
-As cartas de missões são divididas em três classes diferentes, representadas por estrelas na carta. Cada classe de missão tem uma trilha diferente no tabuleiro principal.
-Ao completar uma missão de classe <span class="glyphicon glyphicon-star"></span>, o mestre da guilda recebe um novo recruta vindo da reserva de recrutas.
-Já ao completar uma missão de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>, o mestre da guilda pode escolher um dos recrutas disponíveis para recrutamento na taverna.
+As cartas de missões são divididas em três classes diferentes, representadas por estrelas na carta. Cada classe tem uma trilha diferente no tabuleiro principal.
 
-Cada missão necessita de um grupo de heróis específicos. Estes heróis representam grupo ideal para o sucesso daquela missão. Sendo assim, para completar uma missão, o mestre da guilda deve enviar os heróis indicados para a missão, descartando-os. Ao completar uma missão, as guildas recebem os pontos de prestígio da missão, e mais:
+Cada missão necessita de um determinado grupo de heróis. Eles representam o grupo ideal para o sucesso daquela missão. Sendo assim, para completar a missão o mestre da guilda deve enviar os heróis indicados na missão, descartando-os. Ao completar uma missão, a guilda recebe pontos de prestígio e, adicionalmente para cada classe:
 
 - Classe <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo aprendiz diretamente da reserva;
-- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda pode escolher um dos aprendizes disponíveis na taverna;
-- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou os benefícios especiais indicados na descrição da missão.
+- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos aprendizes disponíveis na taverna;
+- Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígios ou com benefícios especiais indicados na descrição da missão.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
