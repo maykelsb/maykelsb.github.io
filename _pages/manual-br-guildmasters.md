@@ -21,9 +21,8 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
   - 5 Clérigos / 5 Magos / 4 Necromancers
-- 4 cartas de referência
 - 1 tabuleiro (**pendente**)
-- 4 tabuleiros de guildas, em 4 cores diferentes (**==PENDENTE==**)
+- 4 tabuleiros de guildas, em 4 cores diferentes (**==PENDENTE==**) / incluir: - 4 cartas de referência 
 - 4 marcadores de pontos, em 4 cores diferentes
 - 4 marcadores de mestre da guilda, em 4 cores diferentes
 - 12 marcadores de tempo (**pendente**)
