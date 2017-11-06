@@ -76,7 +76,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 (**imagem pendente**)
 
-- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Abra 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas.
+- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas.
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
