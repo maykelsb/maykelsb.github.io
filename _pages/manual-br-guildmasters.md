@@ -62,7 +62,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 - <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
 - <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
-- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígio ou com artefatos que concedem vantagens especiais.
+- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá ser recompensada com pontos adicionais de prestígio ou com **artefatos** que concedem vantagens especiais.
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
@@ -83,9 +83,10 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 (**imagem pendente**)
 
-- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas.
+- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
+- **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
-- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
+- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
 
