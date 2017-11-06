@@ -33,7 +33,7 @@ Os jogadores competem uns contra os outros para se tornar a guilda mais famosa d
 - 1 marcador de sentido de draft
 
 # Detalhando componentes
-## Cartas de heróis
+## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
 
 (**imagem pendente**)
@@ -43,7 +43,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. A imagem do herói;
 1. Habilidade executada pelo herói ao ser ativado.
 
-## Cartas de recrutas
+## Recrutas
 Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. **==REVISAR==** Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal. **==REVISAR==**
 
 (**imagem pendente**)
@@ -52,7 +52,7 @@ Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. O
 1. O nome da classe do recruta;
 1. A imagem do recruta.
 
-## Cartas de missões
+## Missões
 As cartas de missões são divididas em três classes diferentes, representadas por estrelas na carta. Cada classe tem uma trilha diferente no tabuleiro principal.
 
 Cada missão necessita de um determinado grupo de heróis. Eles representam o grupo ideal para o sucesso daquela missão. Sendo assim, para completar uma missão o mestre da guilda deve enviar os heróis indicados nela, descartando-os. Ao completar uma missão, a guilda recebe pontos de prestígio e, adicionalmente, para cada classe de missão:
