@@ -33,8 +33,11 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 
 # Detalhando componentes
 ## Guildas
-
-
+As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
+- **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
+- **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
+- **Sala dos troféus**: Aqui fica o artefato que está com um efeito benéfico ativo na guilda;
+- **Cofre**: Os demais artefatos da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo.
 
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
@@ -47,7 +50,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. Habilidade executada pelo herói ao ser ativado.
 
 ## Recrutas
-Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. **==REVISAR==** Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal. **==REVISAR==**
+Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal.
 
 (**imagem pendente**)
 
@@ -72,7 +75,6 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 1. Localização da missão;
 1. Pontos de fama recebidos ao realizar a missão;
 1. Classe de dificuldade da missão;
-1. Bônus recebido ao realizar a missão; **==PENDENTE==**
 1. Identificação da missão. **==PENDENTE==**
 
 ## Artefatos
