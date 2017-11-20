@@ -54,7 +54,8 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 |Icon|Name|Qtt|Ability
 |---|
 |![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Warrior|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"}.
-
+|![Scout](/assets/img/bg/gm/arqueiro_ico.png){:height="35x"}|Scout|8|**Scout**: Look at the top 4 cards of the adventurer deck, take one of them and discard the others.|
+![Monk](/assets/img/bg/gm/monge_ico.png){:height="35px"}|Monk|6|**Ajna**: Look at 3 unrevelaed mission cards. You can take 1 to fullfil at any time.<br />**Sacred Warrior**: Can replace a ![Warrior](/assets/img/bg/gm/guerreiro_ico.png){:height="30px"} or a ![Cleric](/assets/img/bg/gm/cleriga_ico.png){:height="30px"} on quests.
 
 
 ## Recrutas
