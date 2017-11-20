@@ -51,7 +51,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 
 ### Militares
 |---|
-| Ícone | Nome | Qtt | Categoria | Habilidade 
+|Ícone|Nome|Qtt|Categoria|Habilidade
 |---|
 |![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Guerreiro|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"} quando utilizados contra você.
 |![Batedor]({{maykelsb.github.io}}/assets/img/bg/gm/arqueiro_ico.png){:height="35x"}|Batedor|8|**Reforços**: Jogue o dado do arqueiro. Compre três cartas de heróis e fique com duas se o resultado for 1-2 ou uma se o resultado foi 3-6. Descarte as demais|
