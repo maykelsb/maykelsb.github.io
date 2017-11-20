@@ -36,8 +36,8 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 - **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
 - **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
-- **Sala dos troféus**: Aqui fica o artefato que está com um efeito benéfico ativo na guilda;
-- **Cofre**: Os demais artefatos da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo.
+- **Sala dos troféus**: Aqui fica a relíquia que está ativo na guilda;
+- **Cofre**: As demais relíquias da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo.
 
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
@@ -77,7 +77,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 1. Classe de dificuldade da missão;
 1. Identificação da missão. **==PENDENTE==**
 
-## Artefatos
+## Relíquias
 
 
 
@@ -108,9 +108,8 @@ O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de h
 Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente e marcada no tabuleiro principal. Durante o seu turno, o jogadores pode realizar até duas das seguintes ações, sem repetí-las:
  - Ativar um herói;
  - Recrutar um herói na taverna;
- - Cumprir uma missão.
-
-
+ - Cumprir uma missão;
+ - Ativar ou equipar uma relíquia.
 
 ## Manutenção ##
 
