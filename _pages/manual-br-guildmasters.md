@@ -21,6 +21,7 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
   - 5 Clérigos / 5 Magos / 4 Necromancers
+- 15 cartas de relíquias
 - 1 tabuleiro (**pendente**)
 - 4 tabuleiros de guildas, em 4 cores diferentes (**==PENDENTE==**) / incluir: - 4 cartas de referência 
 - 4 marcadores de pontos, em 4 cores diferentes
@@ -36,7 +37,7 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 - **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
 - **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
-- **Sala dos troféus**: Aqui fica a relíquia que está ativo na guilda;
+- **Relicário**: Armazena a relíquia ativa na guilda;
 - **Cofre**: As demais relíquias da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo.
 
 ## Heróis
@@ -78,8 +79,8 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 1. Identificação da missão. **==PENDENTE==**
 
 ## Relíquias
-
-
+As relíquias dão à guilda acesso a habilidades poderosíssimas, mas a um custo elevado. Além disso, elas podem forcer pontuações adicionais no final do jogo.
+Cada guilda conta com um **relicário** onde poderá exibir uma de suas relíquias. Essa exibição permite o acesso à habilidade concedido pela relíquia. **==REVISAR==**
 
 # Preparação do jogo #
 
