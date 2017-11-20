@@ -49,14 +49,19 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. A imagem do herói;
 1. Habilidade especial do herói.
 
-### Habilidades
+### Militares
+|---|
+|Ícone|Nome|Qtt|Categoria|Habilidade
+|---|
+|![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Guerreiro|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"} quando utilizados contra você.
+|![Batedor]({{maykelsb.github.io}}/assets/img/bg/gm/arqueiro_ico.png){:height="35x"}|Batedor|8|**Reforços**: Jogue o dado do arqueiro. Compre três cartas de heróis e fique com duas se o resultado for 1-2 ou uma se o resultado foi 3-6. Descarte as demais|
+![Monk]({{maykelsb.github.io}}/assets/img/bg/gm/monge_ico.png){:height="35px"}|Monk|6|**Guerreiro sagrado**: Pode substituir um ![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="30px"} ou um ![Clérigo]({{maykelsb.github.io}}/assets/img/bg/gm/cleriga_ico.png){:height="30px"} em missões.
 
-|---|
-|Ícone|Nome|Qtt|Habilidade
-|---|
-|![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Warrior|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"}.
-|![Batedor]({{maykelsb.github.io}}/assets/img/bg/gm/arqueiro_ico.png){:height="35x"}|Scout|8|**Scout**: Look at the top 4 cards of the adventurer deck, take one of them and discard the others.|
-![Monk]({{maykelsb.github.io}}/assets/img/bg/gm/monge_ico.png){:height="35px"}|Monk|6|**Sacred Warrior**: Substitui um ![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="30px"} ou um ![Clérigo]({{maykelsb.github.io}}/assets/img/bg/gm/cleriga_ico.png){:height="30px"} on quests.
+### Arcanos
+
+### Furtivos
+
+
 
 
 ## Recrutas
