@@ -50,6 +50,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. Habilidade especial do herói.
 
 ### Habilidades
+
 |---|
 |Icon|Name|Qtt|Ability
 |---|
