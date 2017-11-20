@@ -42,15 +42,17 @@ As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
 
-### Habilidades
-
-
 (**imagem pendente**)
 
 1. Símbolo da classe do herói;
 1. O nome da classe do herói;
 1. A imagem do herói;
-1. Habilidade executada pelo herói ao ser ativado.
+1. Habilidade especial do herói.
+
+### Habilidades
+
+
+
 
 ## Recrutas
 Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal.
