@@ -42,6 +42,9 @@ As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
 
+### Habilidades
+
+
 (**imagem pendente**)
 
 1. Símbolo da classe do herói;
