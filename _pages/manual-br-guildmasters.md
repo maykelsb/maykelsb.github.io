@@ -37,8 +37,8 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 - **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
 - **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
-- **Relicário**: Armazena a relíquia ativa na guilda;
-- **Cofre**: As demais relíquias da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo.
+- **Relicário**: Armazena a relíquia ativa na guilda; **==REVISAR==**
+- **Cofre**: As demais relíquias da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo. **==REVISAR==**
 
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
@@ -66,7 +66,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 - <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
 - <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
-- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá escolher uma **relíquia** que concede vantagens especiais.
+- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá escolher uma **relíquia** que concede vantagens especiais. **==REVISAR==**
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
@@ -91,9 +91,6 @@ Cada guilda conta com um **relicário** onde poderá exibir uma de suas relíqui
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
-
-
-
 
 # Fases do jogo #
 O jogo é dividido em rodadas, divididas entre _drafts_, turnos dos jogadores e manutenção.
