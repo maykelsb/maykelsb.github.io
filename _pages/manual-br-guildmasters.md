@@ -37,8 +37,7 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 - **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
 - **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
-- **Relicário**: Armazena a relíquia ativa na guilda; **==REVISAR==**
-- **Cofre**: As demais relíquias da guilda ficam no cofre forte e fornecem pontos de prestígio adicionais no final do jogo. **==REVISAR==**
+- **Relicário**: Armazena as relíquias da guilda.
 
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
@@ -80,7 +79,14 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 ## Relíquias
 As relíquias dão à guilda acesso a habilidades poderosíssimas, mas a um custo elevado. Além disso, elas podem forcer pontuações adicionais no final do jogo.
-Cada guilda conta com um **relicário** onde poderá exibir uma de suas relíquias. Essa exibição permite o acesso à habilidade concedido pela relíquia. **==REVISAR==**
+
+(**imagem pendente**)
+
+1. Nome da relíquia;
+1. Habilidade da relíquia;
+1. Imagem da relíquia;
+2. Descrição da relíquia.
+
 
 # Preparação do jogo #
 
@@ -90,6 +96,7 @@ Cada guilda conta com um **relicário** onde poderá exibir uma de suas relíqui
 - **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
+- **Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
 # Fases do jogo #
