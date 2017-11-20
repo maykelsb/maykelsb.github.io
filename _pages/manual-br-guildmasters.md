@@ -53,7 +53,7 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 |---|
 |Icon|Name|Qtt|Ability
 |---|
-|![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Warrior|8|**Protect**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"}.
+|![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Warrior|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"}.
 
 
 
