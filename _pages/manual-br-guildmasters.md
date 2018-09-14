@@ -139,3 +139,5 @@ Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente 
 # Final do jogo #
 O jogo continua até o final da rodada em que uma das guildas atingiu **30 pts** de fama. Na sequência, as pontuações adicionais são computadas. A guilda com o maior fama é a vencedora.
 
+# Anotações #
+Utilizar apenas os símbolos básicos para completar missões: Militar, Furtivos, Mágicos, Trapaceiros, Selvagens e Sociais
