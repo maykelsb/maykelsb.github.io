@@ -50,8 +50,8 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-||Curandeira|8x|?
-||Bruxa|8x|?
-||Patrulheiro|6x|Social/Arcano
+| ![Curandeira](/assets/img/bg/gm/icons/curandeira.png){:height="35px"} |Curandeira|8x|?
+| ![Xamã](/assets/img/bg/gm/icons/xama.png){:height="35px"} |Xamã|8x|?
+| ![Patrulheiro](/assets/img/bg/gm/icons/patrulheiro.png){:height="35px"} |Patrulheiro|6x|Social/Arcano
 
 
