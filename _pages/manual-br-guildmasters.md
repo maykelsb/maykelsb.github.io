@@ -9,7 +9,7 @@ permalink: /bg/br/guildmasters
 # Heróis #
 Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham dois caminhos.
 
-##  ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} Militar ##
+## ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} Militar ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
@@ -18,7 +18,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
 | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Militar / Social.
 
-## Social ##
+## ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} Social ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
@@ -27,7 +27,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
 | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|Social/Arcano
 
-## Arcano ##
+## ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} Arcano ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
@@ -36,7 +36,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
 | ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>Arcano/Sombrio
 
-## Sombrio ##
+## ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} Sombrio ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
@@ -45,7 +45,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|?
 | ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|Sombrio/Selvagem
 
-## Selvagem ##
+## ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} Selvagem ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
