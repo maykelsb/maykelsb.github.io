@@ -14,5 +14,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 ||Guerreiro|8x|Bloqueia ladrão e assassino.
 ||Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
-
-
+||Cavaleiro|6x|?
+|---|
+|Social|
+|---|
