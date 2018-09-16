@@ -23,8 +23,8 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de região.
-| ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
+| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de influência.
+| ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|Descarte uma trilha de missões e revele novas.
 | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|<br/>**Social/Arcano**
 
 ## ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} Arcano ##
