@@ -28,6 +28,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 ||Monge|6x|Social/Arcano
 
 ## Arcano ##
+
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
@@ -35,4 +36,21 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 ||Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
 ||Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>Arcano/Sombrio
 
+## Sombrio ##
+
+|---|
+|Ícone|Nome|Qtd|Habilidade
+|---|
+||Ladrão|8x|
+||Assassino|8x|?
+||Caçador|6x|Sombrio/Selvagem
+
+## Selvagem ##
+
+|---|
+|Ícone|Nome|Qtd|Habilidade
+|---|
+||Curandeira|8x|?
+||Bruxa|8x|?
+||Patrulheiro|6x|Social/Arcano
 
