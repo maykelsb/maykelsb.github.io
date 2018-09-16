@@ -16,16 +16,16 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueia ladrão e assassino.
 | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
-| ![Oficial](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Militar / Social.
+| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Militar / Social.
 
 ## Social ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-||Bardo|8x|?
-||Aristocrata|8x|?
-||Monge|6x|Social/Arcano
+| ![bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|?
+| ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
+| ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|Social/Arcano
 
 ## Arcano ##
 
