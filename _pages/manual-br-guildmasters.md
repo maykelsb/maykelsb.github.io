@@ -16,14 +16,14 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueia ladrão e assassino.
 | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
-| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|<br/>**Militar/Social**.
+| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**
 
 ## ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} Social ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|?
+| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de região.
 | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
 | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|<br/>**Social/Arcano**
 
