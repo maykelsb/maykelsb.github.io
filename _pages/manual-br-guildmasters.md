@@ -55,3 +55,4 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Patrulheiro](/assets/img/bg/gm/icons/patrulheiro.png){:height="35px"} |Patrulheiro|6x|Social/Arcano
 
 
+
