@@ -54,3 +54,4 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 ||Bruxa|8x|?
 ||Patrulheiro|6x|Social/Arcano
 
+
