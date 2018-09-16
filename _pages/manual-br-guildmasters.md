@@ -10,5 +10,5 @@ permalink: /bg/br/guildmasters
 Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham dois caminhos.
 
 |---|
-|Ícone|Nome|Qtd|Habilidade|
+|Ícone|Nome|Qtd|Habilidade
 |---|
