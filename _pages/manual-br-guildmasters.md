@@ -14,9 +14,9 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-|![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"}|Guerreiro|8x|Bloqueia ladrão e assassino.
-||Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
-||Cavaleiro|6x|Militar / Social.
+| ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueia ladrão e assassino.
+| ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
+| ![Oficial](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Militar / Social.
 
 ## Social ##
 
