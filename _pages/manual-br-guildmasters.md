@@ -12,3 +12,5 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
+|x|Guerreiro|8x|Bloqueia ladrão e assassino
+
