@@ -16,7 +16,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueia ladrão e assassino.
 | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
-| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Militar / Social.
+| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|<br/>**Militar/Social**.
 
 ## ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} Social ##
 
@@ -25,7 +25,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|?
 | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
-| ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|Social/Arcano
+| ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|<br/>**Social/Arcano**
 
 ## ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} Arcano ##
 
@@ -34,7 +34,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|8x|
 | ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
-| ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>Arcano/Sombrio
+| ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>**Arcano/Sombrio**
 
 ## ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} Sombrio ##
 
@@ -43,7 +43,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|
 | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|?
-| ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|Sombrio/Selvagem
+| ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|<br/>**Sombrio/Selvagem**
 
 ## ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} Selvagem ##
 
@@ -52,7 +52,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Curandeira](/assets/img/bg/gm/icons/curandeira.png){:height="35px"} |Curandeira|8x|?
 | ![Xamã](/assets/img/bg/gm/icons/xama.png){:height="35px"} |Xamã|8x|?
-| ![Patrulheiro](/assets/img/bg/gm/icons/patrulheiro.png){:height="35px"} |Patrulheiro|6x|Social/Arcano
+| ![Patrulheiro](/assets/img/bg/gm/icons/patrulheiro.png){:height="35px"} |Patrulheiro|6x|<br/>**Selvagem/Militar**
 
 
 
