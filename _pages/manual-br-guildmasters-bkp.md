@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manual Guildmasters BR
-permalink: /bg/br/guildmasters
+permalink: /bg/br/guildmastersbkp
 ---
 * TableOfContents
 {:toc}
