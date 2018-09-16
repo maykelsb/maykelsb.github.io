@@ -23,7 +23,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-| ![bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|?
+| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|?
 | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|?
 | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|Social/Arcano
 
@@ -32,9 +32,9 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-||Mago|8x|
-||Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
-||Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>Arcano/Sombrio
+| ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|8x|
+| ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
+| ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>Arcano/Sombrio
 
 ## Sombrio ##
 
