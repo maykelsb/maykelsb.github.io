@@ -9,7 +9,7 @@ permalink: /bg/br/guildmasters
 # Heróis #
 Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham dois caminhos.
 
-## Militar ##
+##  ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} Militar ##
 
 |---|
 |Ícone|Nome|Qtd|Habilidade
