@@ -41,9 +41,9 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-||Ladrão|8x|
-||Assassino|8x|?
-||Caçador|6x|Sombrio/Selvagem
+| ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|
+| ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|?
+| ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|Sombrio/Selvagem
 
 ## Selvagem ##
 
