@@ -80,7 +80,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 - <span class="glyphicon glyphicon-star"></span>: A guilda recebe um novo recruta da reserva;
 - <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: O mestre da guilda pode escolher um dos recrutas disponíveis na taverna;
-- <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá escolher uma **relíquia** que concede vantagens especiais. **==REVISAR==**
+- ~~<span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>: A guilda poderá escolher uma **relíquia** que concede vantagens especiais. **==REVISAR==**
 
 ![Carta de missão]({{maykelsb.github.io}}/assets/img/bg/gm/questcard.png)
 
@@ -92,15 +92,15 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 1. Classe de dificuldade da missão;
 1. Identificação da missão. **==PENDENTE==**
 
-## Relíquias
-As relíquias dão à guilda acesso a habilidades poderosíssimas, mas a um custo elevado. Além disso, elas podem forcer pontuações adicionais no final do jogo.
+## ~~Relíquias~~
+~~As relíquias dão à guilda acesso a habilidades poderosíssimas, mas a um custo elevado. Além disso, elas podem forcer pontuações adicionais no final do jogo.~~
 
-(**imagem pendente**)
+~~(**imagem pendente**)~~
 
-1. Nome da relíquia;
-1. Habilidade da relíquia;
-1. Imagem da relíquia;
-2. Descrição da relíquia.
+1. ~~Nome da relíquia;
+1. ~~Habilidade da relíquia;
+1. ~~Imagem da relíquia;
+2. ~~Descrição da relíquia.
 
 
 # Preparação do jogo #
@@ -111,7 +111,7 @@ As relíquias dão à guilda acesso a habilidades poderosíssimas, mas a um cust
 - **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
-- **Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;
+- ~~**Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
 # Fases do jogo #
