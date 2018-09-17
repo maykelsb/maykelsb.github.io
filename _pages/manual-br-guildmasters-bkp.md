@@ -21,7 +21,7 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
   - 5 Assassinos / 5 Ladinas / 4 Caçadores
   - 5 Guerreiros / 5 Arqueiros / 4 Monges
   - 5 Clérigos / 5 Magos / 4 Necromancers
-- 15 cartas de relíquias
+- ~~15 cartas de relíquias~~
 - 1 tabuleiro (**pendente**)
 - 4 tabuleiros de guildas, em 4 cores diferentes (**==PENDENTE==**) / incluir: - 4 cartas de referência 
 - 4 marcadores de pontos, em 4 cores diferentes
@@ -37,7 +37,7 @@ Cada jogador representa o mestre de uma guilda e é responsável por sua adminis
 As guildas são representadas por tabuleiros individuais com 4 áreas especiais:
 - **Quartel**: Os recrutas ficam no quartel aguardando serem enviados para alguma missão;
 - **Ala médica**: Assim que os recrutas voltam das missões, ou são assassinados, eles vem para a ala médica e permanecem até o início da próxima rodada;
-- **Relicário**: Armazena as relíquias da guilda.
+- ~~**Relicário**: Armazena as relíquias da guilda.~~
 
 ## Heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles. Os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões e recrutar aspirantes a heróis na taverna. Além disso, cada herói tem uma habilidade especial que pode ser utilizada em diferentes momentos do jogo.
