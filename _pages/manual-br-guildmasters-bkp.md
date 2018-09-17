@@ -97,10 +97,10 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 
 ~~(**imagem pendente**)~~
 
-1. ~~Nome da relíquia;
-1. ~~Habilidade da relíquia;
-1. ~~Imagem da relíquia;
-2. ~~Descrição da relíquia.
+1. ~~Nome da relíquia;~~
+1. ~~Habilidade da relíquia;~~
+1. ~~Imagem da relíquia;~~
+2. ~~Descrição da relíquia.~~
 
 
 # Preparação do jogo #
@@ -111,7 +111,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 - **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
 - **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
 - **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
-- ~~**Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;
+- ~~**Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;~~
 - **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
 
 # Fases do jogo #
