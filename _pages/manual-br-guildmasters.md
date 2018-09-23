@@ -14,7 +14,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-| ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueia ladrão e assassino.
+| ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueie um **Ataque**.
 | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.
 | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**
 
@@ -41,8 +41,8 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Ícone|Nome|Qtd|Habilidade
 |---|
-| ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|
-| ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|?
+| ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|**Ataque**: ?
+| ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|**Ataque**: ?
 | ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|<br/>**Sombrio/Selvagem**
 
 ## ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} Selvagem ##
