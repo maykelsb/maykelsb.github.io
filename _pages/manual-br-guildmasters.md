@@ -29,8 +29,23 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 ## Tabuleiro da guilda
 
 ## Cartas de heróis
+As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles, os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões, alistar novos recrutas na taverna e utilizar suas habilidades únicas em benefício de sua guilda.
 
-## Cartas de recruta
+(**imagem pendente**)
+
+1. Caminho do herói;
+1. O nome da classe do herói;
+1. A imagem do herói;
+1. Habilidade especial do herói.
+
+## Cartas de recrutas
+Recrutas são aspirantes a heróis e podem substitui-lós durante as missões, no entanto, **não possuem habilidades especiais**. Ao serem recrutados, eles permanecem na guilda até o final do jogo. Quando são utilizadas para cumprir uma missão, os recrutas retornam para a **ala médica** da sua guilda, mesmo que tenham sido atacados pelo Assassino.
+
+(**imagem pendente**)
+
+1. Caminho do recruta;
+1. O nome da classe do recruta;
+1. A imagem do recruta.
 
 ## Cartas de missões
 
@@ -92,6 +107,7 @@ Durante a manutenção faça o seguinte:
  - Os **marcardores de mestres de guilda** são retornados para a linha superior. A nova ordem de turnos é definida pela quantidade de pontos. Os jogadores com menos pontos tem prioridade;
  - O **marcador de sentido de *draft*** é invertido;
  - Revele missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>, caso um dos jogadores já tenha atingido 10pts de fama;
+ - Os recrutas nas **alas médicas** são enviados de volta para os **quartéis**;
  - Se algum dos jogadores tiver mais de 30pts de renome, a fase de pontuação final é resolvida e o jogo termina.
 
 ## Pontuação final ##
