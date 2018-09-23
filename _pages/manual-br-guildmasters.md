@@ -51,8 +51,8 @@ Se o jogador escolher passar, ele move seu **marcador de mestre de guilda** indi
 **Importante**: Quando houver apenas um jogador ativo, ou seja, sem ter passado, este jogador poderá jogar apenas mais um turno e deverá passar.
 
 ### Ativando habilidades ###
-No jogo há os seguintes tipos de habilidades: Normal, Ataque, Resposta e Especial. Independente do tipo, basta descartar o herói para ativar sua habilidade.
- - **Normal**: Habilidades do tipo normal oferecem uma vantagem ao jogador que as utiliza. São sempre utilizadas dentro do seu turno;
+No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especial. Independente do tipo, basta descartar o herói para ativar sua habilidade.
+ - **Comum**: Habilidades do tipo comum oferecem uma vantagem ao jogador que as utiliza. São sempre utilizadas dentro do seu turno;
  - **Ataque**: Os ataques são habilidades que prejudicam um dos demais jogadores.
  - **Resposta**: Respostas são habilidades que só podem ser utilizadas quando uma situação especial acontece no jogo, variando para cada habilidade;
  - **Especial**: As habilidades especiais são ativadas após a conclusão de missões.
