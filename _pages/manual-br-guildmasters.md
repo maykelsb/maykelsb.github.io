@@ -12,14 +12,14 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 
 # Componentes #
 - 105 cartas de heróis, divididos em 5 caminhos: Militar, Social, Arcano, Selvagem e Astúcia;
-- xx cartas de missões, divididas em 3 classes;
+- 45 cartas de missões, divididas em 3 classes;
 - 35 cartas de recrutas;
 - 1 tabuleiro central;
 - 6 tabuleiros de guildas, em cores diferentes;
 - 36 marcadores de pontos, em 6 cores diferentes;
 - 6 marcadores de mestre da guilda, em cores diferentes;
 - 12 marcadores de tempo;
-- xx tokens de meio escudo, dividido em 10 metades diferentes (2 de cada escudo); 
+- 30 tokens de meio escudo, dividido em 2 metades diferentes de 5 escudos; 
 - 2 dados temporais, em cores diferentes;
 - 1 dado de herói (dH);
 - 1 marcador de sentido do *draft*;
