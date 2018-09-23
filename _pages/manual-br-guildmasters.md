@@ -14,18 +14,18 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 |Caminho|Ícone|Nome|Qtd|Habilidade|Tipo habilidade
 |---|
-|![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"}| ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueie um **Ataque**.|Resposta
-|![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"}| ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.|Habilidade
-|![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"}| ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**|Habilidade
+| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueie um **Ataque**.|Resposta
+| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.|Habilidade
+| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**|Habilidade
 
 ## ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} Social ##
 
 |---|
-|Ícone|Nome|Qtd|Habilidade
+|Caminho|Ícone|Nome|Qtd|Habilidade
 |---|
-| ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de influência.
-| ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|Descarte uma trilha de missões e revele novas.
-| ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|<br/>**Social/Arcano**
+| ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de influência.
+| ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|Descarte uma trilha de missões e revele novas.
+| ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|6x|<br/>**Social/Arcano**
 
 ## ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} Arcano ##
 
