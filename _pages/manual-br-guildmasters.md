@@ -6,7 +6,17 @@ permalink: /bg/br/guildmasters
 # Objetivo #
 Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões cumprir afim de espalhar a fama de sua guilda atravéz do reino. Para isso, o mestre da guilda deverá recrutar e utilizar as habilidades de seus heróis em prol da guilda. Ao final do jogo, a guilda com mais **pontos de fama* é a vencedora.
 
-
+# Componentes #
+- 105 cartas de heróis, divididos em 5 caminhos;
+- xx cartas de missões, divididas em 3 níveis;
+- 35 cartas de recrutas;
+- 1 tabuleiro central;
+- 6 tabuleiros de guildas, em cores diferentes;
+- 6 marcadores de pontos, em cores diferentes;
+- 6 marcadores de mestre da guilda, em cores diferentes;
+- 12 marcadores de tempo;
+- 2 dados temporais, em cores diferentes;
+- 1 marcador de sentido de draft;
 
 
 # Referências #
