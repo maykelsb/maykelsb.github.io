@@ -80,6 +80,8 @@ Se o jogador escolher passar, ele deve mover seu **marcador de mestre da guilda*
 
 **Importante**: Quando houver apenas um jogador ativo, ou seja, sem ter passado, este jogador poderá jogar apenas mais um turno e deverá passar.
 
+**Marcadores temporais**: No momento em que uma missão recebe um **marcador temporal**, verifique se o limite indicado na trilha da missão foi atingido. Neste caso, a missão é imediatamente descartada, junto com os marcadores, e uma nova missão é revelada e colocada no lugar daquela descartada.
+
 ### Ativando habilidades ###
 No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especial. Independente do tipo, basta descartar o herói para ativar sua habilidade.
  - **Comum**: Habilidades do tipo comum oferecem uma vantagem ao jogador que as utiliza. São sempre utilizadas dentro do seu turno;
@@ -93,7 +95,8 @@ No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especia
 Para cumprir uma missão, descarte de sua mão os heróis requeridos pela missão. Missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> oferecem bonus ao serem completadas. **Importante**: Estes recrutas vão para a **ala médica**.
  - **Classe <span class="glyphicon glyphicon-star"></span>**: Aliste o recruta do topo da reserva de recrutas;
  - **Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>**: Escolha um dos recrutas disponíveis na **taverna**;
- - Guarde quaisquer **marcadores temporais** que estejam na missão. Eles poderão ser utilizados no alistamento.
+ - Guarde quaisquer **marcadores temporais** que estejam na missão. Eles poderão ser utilizados no alistamento, durante a fase principal;
+ - Jogue os dois **dados temporais** e coloque um **marcador temporal** sobre a missão na interseção dos **dados temporais**.
 
 ### Alistamento ###
 O recrutamento pode ser feito de duas formas:
