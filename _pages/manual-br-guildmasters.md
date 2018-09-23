@@ -48,8 +48,8 @@ Os jogadores realizam jogadas seguindo a ordem de turnos marcada no tabuleiro pr
 
 As disponíveis ações para o jogador ativo são:
  - Ativar a habilidade de um herói;
- - Alistar um recruta na taverna;
- - Cumprir uma missão.
+ - Cumprir uma missão;
+ - Alistar um recruta na taverna.
 
 Se o jogador escolher passar, ele deve mover seu **marcador de mestre da guilda** indicando que passou.
 
@@ -64,13 +64,18 @@ No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especia
  
  Ao ativar uma habilidade, avance uma posição na trilha corresponde ao caminho do herói ativado.
 
-### Alistamento ###
-Para realizar um recrutamento, descarte dois heróis iguais e compre da taverna um recruta do mesmo caminho dos heróis descartados. O novo recruta vai diretamente para o quartel de sua guilda.
-
 ### Cumprindo missões ###
 Para cumprir uma missão, descarte de sua mão os heróis requeridos pela missão. Missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> oferecem bonus ao serem completadas. **Importante**: Estes recrutas vão para a **ala médica**.
  - **Classe <span class="glyphicon glyphicon-star"></span>**: Aliste o recruta do topo da reserva de recrutas;
- - **Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>**: Escolha um dos recrutas disponíveis na **taverna**.
+ - **Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>**: Escolha um dos recrutas disponíveis na **taverna**;
+ - Guarde quaisquer **marcadores temporais** que estejam na missão. Eles poderão ser utilizados no alistamento.
+
+### Alistamento ###
+O recrutamento pode ser feito de duas formas:
+ - Descarte dois heróis iguais e pegue na taverna um recruta do mesmo caminho;
+ - Descarte dois **marcadores temporais** e pegue um recruta de qualquer caminho.
+
+O recruta alistado vai diretamente para o **quartel** de sua guilda.
 
 ## Manutenção ##
 Durante a manutenção faça o seguinte:
