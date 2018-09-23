@@ -4,7 +4,7 @@ title: Manual Guildmasters BR
 permalink: /bg/br/guildmasters
 ---
 # Objetivo #
-Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões cumprir afim de espalhar a fama de sua guilda atravéz do reino. Para isso, o mestre da guilda deverá recrutar e utilizar as habilidades de seus heróis em prol da guilda. Ao final do jogo, a guilda com mais **pontos de fama* é a vencedora.
+Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões cumprir afim de espalhar a fama de sua guilda atravéz do reino. Para isso, o mestre da guilda deverá recrutar e utilizar as habilidades de seus heróis em prol da guilda. Ao final do jogo, a guilda com mais **pontos de fama** é a vencedora.
 
 # Componentes #
 - 105 cartas de heróis, divididos em 5 caminhos;
