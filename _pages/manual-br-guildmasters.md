@@ -13,7 +13,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |Caminho|Ícone|Nome|Qtd|Habilidade|Tipo habilidade
 |---|
 | ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueie um **Ataque**.|Resposta
-| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.|Habilidade
+| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte 1..3 heróis e compre a mesma quantidade.|Habilidade
 | ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"}![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>|Habilidade
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|8x|Envie um bardo adicional em uma missão e receba meio token de influência.| Especial
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|8x|Descarte uma trilha de missões e revele novas.| Habilidade
