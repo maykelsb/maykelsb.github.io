@@ -24,11 +24,11 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 
 (**imagem pendente**)
 
-- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
+- **Cartas de missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
 - **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
-- **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada;
-- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
-
+- **Cartas de recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
+- **Cartas de heróis**: Embaralhe as cartas de heróis e distribua 8 para cada jogador, coloque as restantes na área reservada;
+- **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada.
 
 
 
