@@ -82,7 +82,10 @@ Durante a manutenção faça o seguinte:
  - Os **marcardores de mestres de guilda** são retornados para a linha superior. A nova ordem de turnos é definida pela quantidade de pontos. Os jogadores com menos pontos tem prioridade;
  - O **marcador de sentido de *draft*** é invertido;
  - Revele missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>, caso um dos jogadores já tenha atingido 10pts de fama;
- - Se a condição de final de jogo for atendida, os jogadores calculam a pontuação final.
+ - Se algum dos jogadores tiver mais de 30pts de renome, a fase de pontuação final é resolvida e o jogo termina.
+
+## Pontuação final ##
+
 
 # Referências #
 ## Heróis ##
