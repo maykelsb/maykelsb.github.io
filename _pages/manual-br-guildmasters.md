@@ -26,7 +26,7 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 
 ## Tabuleiro central
 
-## Tabuleiro da guilda
+## Tabuleiros das guildas
 
 ## Cartas de heróis
 As cartas de heróis são os principais recursos utilizados no jogo. Não se apegue muito a eles, os hérois vão e vem no decorrer do jogo. Eles são utilizados para cumprir missões, alistar novos recrutas na taverna e utilizar suas habilidades únicas em benefício de sua guilda.
