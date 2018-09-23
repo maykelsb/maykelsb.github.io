@@ -8,7 +8,7 @@ permalink: /bg/br/guildmasters
 {:toc}
 
 # Objetivo do jogo #
-Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões cumprir afim de espalhar a fama de sua guilda através do reino. Para isso, o mestre da guilda deverá recrutar e utilizar as habilidades de seus heróis em prol da guilda. Ao final do jogo, a guilda com mais **pontos de fama** é a vencedora.
+Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões cumprir afim de espalhar a fama de sua guilda através do reino. Para isso, o mestre da guilda deverá recrutar e utilizar as habilidades de seus heróis em prol da guilda. Ao final do jogo, a guilda com mais **pontos de renome** é a vencedora.
 
 # Componentes #
 - 105 cartas de heróis, divididos em 5 caminhos: Militar, Social, Arcano, Selvagem e Astúcia;
@@ -23,6 +23,16 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - 2 dados temporais, em cores diferentes;
 - 1 dado de herói (dH);
 - 1 marcador de sentido do *draft*;
+
+## Tabuleiro central
+
+## Tabuleiro da guilda
+
+## Cartas de heróis
+
+## Cartas de recruta
+
+## Cartas de missões
 
 # Preparação do jogo #
 
