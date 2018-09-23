@@ -60,7 +60,7 @@ No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especia
  - **Comum**: Habilidades do tipo comum oferecem uma vantagem ao jogador que as utiliza. São sempre utilizadas dentro do seu turno;
  - **Ataque**: Os ataques são habilidades que prejudicam um dos demais jogadores.
  - **Resposta**: Respostas são habilidades que só podem ser utilizadas quando uma situação especial acontece no jogo, variando para cada habilidade;
- - **Especial**: As habilidades especiais são ativadas após ou durante a conclusão de uma missão.
+ - **Especial**: Habilidades do tipo Especial tem regras específicas de ativação.
  
  Ao ativar uma habilidade, avance uma posição na trilha corresponde ao caminho do herói ativado.
 
@@ -97,11 +97,11 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|Envie um bardo adicional em uma missão e receba meio token de influência.| Especial
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|Descarte uma trilha de missões e revele novas.|Comum
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"}![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|Descarte todos os recrutas da taverna e revele novos.|Comum
-| ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|Descarte e copie uma habilidade ativada.|Resposta
+| ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|Descarte e copie uma habilidade ativada. (Pode ser ativado após passar)|Resposta/Especial
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|Coloque um marcador de tempo em 1..3 missão(ões).|Comum
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"}![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.|Comum
 | ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|Olhe 3 cartas de um oponente. Escolha 1 e devolva as demais.|Ataque
-| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|Elimine 1 herói enviado a uma missão.|Ataque/Especial
+| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|Elimine 1 herói enviado a uma missão. (Pode ser ativado após passar)|Ataque/Especial
 | ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"}![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|Descarte e coloque o herói ativado na sua mão.|Resposta
 | ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Curandeira](/assets/img/bg/gm/icons/curandeira.png){:height="35px"} |Curandeira|Descarte e retorne **1dH** heróis enviados à missão para sua mão.|Especial
 | ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Xamã](/assets/img/bg/gm/icons/xama.png){:height="35px"} |Xamã|Para cada jogador que não descartar uma carta, restaure um aprendiz.|Comum
