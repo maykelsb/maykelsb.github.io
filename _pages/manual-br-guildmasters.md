@@ -44,6 +44,21 @@ Os jogadores realizam jogadas seguindo a ordem de turnos marcada no tabuleiro pr
  - Alistar um recruta na taverna;
  - Cumprir uma missão.
 
+### Ativando habilidades ###
+No jogo há os seguintes tipos de habilidades: Normal, Ataque, Resposta e Especial. Independente do tipo, basta descartar o herói para ativar sua habilidade.
+ - **Normal**: Habilidades do tipo normal oferecem uma vantagem ao jogador que as utiliza. São sempre utilizadas dentro do seu turno;
+ - **Ataque**: Os ataques são habilidades que prejudicam um dos demais jogadores.
+ - **Resposta**: Respostas são habilidades que só podem ser utilizadas quando uma situação especial acontece no jogo, variando para cada habilidade;
+ - **Especial**: As habilidades especiais são ativadas após a conclusão de missões.
+
+### Alistamento ###
+Para realizar um recrutamento, descarte dois heróis iguais e compre da taverna um recruta do mesmo caminho dos heróis descartados. O novo recruta vai diretamente para o quartel de sua guilda.
+
+### Cumprindo missões ###
+Para cumprir uma missão, descarte de sua mão os heróis requeridos pela missão. Missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> oferecem bonus ao serem completadas. **Importante**: Estes recrutas vão para a **ala médica**.
+ - **Classe <span class="glyphicon glyphicon-star"></span>**: Aliste o recruta do topo da reserva de recrutas;
+ - **Classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>**: Escolha um dos recrutas disponíveis na **taverna**.
+
 ## Manutenção ##
 
 **IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
