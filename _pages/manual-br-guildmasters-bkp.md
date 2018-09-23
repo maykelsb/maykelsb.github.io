@@ -49,20 +49,6 @@ As cartas de heróis são os principais recursos utilizados no jogo. Não se ape
 1. A imagem do herói;
 1. Habilidade especial do herói.
 
-### Militares
-|---|
-|Ícone|Nome|Qtt|Categoria|Habilidade
-|---|
-|![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="35px"}|Guerreiro|8|**Proteção**: Cancela a habilidade da ![Ladina]({{maykelsb.github.io}}/assets/img/bg/gm/ladina_ico.png){:height="30px"} e do ![Assassino]({{maykelsb.github.io}}/assets/img/bg/gm/assassino_ico.png){:height="30px"} quando utilizados contra você.
-|![Batedor]({{maykelsb.github.io}}/assets/img/bg/gm/arqueiro_ico.png){:height="35x"}|Batedor|8|**Reforços**: Jogue o dado do arqueiro. Compre três cartas de heróis e fique com duas se o resultado for 1-2 ou uma se o resultado foi 3-6. Descarte as demais|
-![Monk]({{maykelsb.github.io}}/assets/img/bg/gm/monge_ico.png){:height="35px"}|Monk|6|**Guerreiro sagrado**: Pode substituir um ![Guerreiro]({{maykelsb.github.io}}/assets/img/bg/gm/guerreiro_ico.png){:height="30px"} ou um ![Clérigo]({{maykelsb.github.io}}/assets/img/bg/gm/cleriga_ico.png){:height="30px"} em missões.
-
-### Arcanos
-
-### Furtivos
-
-
-
 
 ## Recrutas
 Recrutas são aspirantes a heróis e podem substitui-lós durante as missões. Os recrutas ainda não são heróis formados, portanto, **não possuem habilidades especiais**. Como vantagem, ao serem recrutados, eles permanecem na guilda até o final do jogo, ou até que um efeito diga o contrário. Após cumprir uma missão ou ser assassinado, um recruta é enviado para a ala médica da guilda, onde ficará se recuperando até a próxima fase principal.
@@ -103,37 +89,7 @@ Cada missão necessita de um determinado grupo de heróis. Eles representam o gr
 2. ~~Descrição da relíquia.~~
 
 
-# Preparação do jogo #
 
-(**imagem pendente**)
-
-- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
-- **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
-- **Ordem dos jogadores**: O primeiro jogador é aquele que visitou uma guilda a menos tempo e o último é aquele que está a mais tempo sem entrar em uma guilda. Coloque os marcadores, em ordem, na área apropriada;
-- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
-- ~~**Relíquias**: Embaralhe as cartas de relíquias e as coloque na área reservada do tabuleiro. Revele uma quantidade relíquias igual ao número de jogadores -1;~~
-- **Contadores** e **dados** devem ser colocados ao lado do tabuleiro de forma acessível a todos.
-
-# Fases do jogo #
-O jogo é dividido em rodadas, divididas entre _drafts_, turnos dos jogadores e manutenção.
-
-## Draft ##
-O _draft_ da inicio a uma rodada do jogo. Cada jogador compra quatro cartas de heróis, escolhe uma para si e passa as demais para a direita ou esquerda. Isso se repete até que todas as cartas tenham sido escolhidas. O sentido do _draft_ segue conforme indicado no tabuleiro principal.
-
-**Dois jogadores**: Nesta modalidade, o draft é realizado um pouco diferente. Cada jogador compra duas cartas, escolhe uma e passa a outra para o oponente. Repita até que cada jogador tenha recebido 4 cartas.
-
-**Primeiro draft**: O _draft_ inicial acontece duas vezes. Após o primeiro _draft_, faça um novo _draft_ é realizado no sentido contrário, desta forma, todos iniciam a partida com 8 cartas de heróis na mão.
-
-## Turno dos jogadores ##
-Os jogadores realizam jogadas seguindo a ordem de turnos definida anteriormente e marcada no tabuleiro principal. Durante o seu turno, o jogadores pode realizar até duas das seguintes ações, sem repetí-las:
- - Ativar um herói;
- - Recrutar um herói na taverna;
- - Cumprir uma missão;
- - Ativar ou equipar uma relíquia.
-
-## Manutenção ##
-
-**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
 
 
 # Final do jogo #
