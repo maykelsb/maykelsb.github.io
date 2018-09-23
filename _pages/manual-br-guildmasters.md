@@ -18,8 +18,8 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|8x|
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|8x|Escolha até 2 missões e coloque um marcador de tempo sobre ela(s).
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"}![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|6x|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.<br/>
-| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|**Ataque**: Olhe 3 cartas de um oponente. Escolha 1 e devolva as demais.|Habilidade
-| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x|**Ataque**: ?
+| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Ladina](/assets/img/bg/gm/icons/ladina.png){:height="35px"} |Ladina|8x|Olhe 3 cartas de um oponente. Escolha 1 e devolva as demais.|Ataque
+| ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![Assassino](/assets/img/bg/gm/icons/assassino.png){:height="35px"} |Assassino|8x||Ataque/Especial
 | ![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"}![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Caçador](/assets/img/bg/gm/icons/cacador.png){:height="35px"} |Caçador|6x|<br/>
 | ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Curandeira](/assets/img/bg/gm/icons/curandeira.png){:height="35px"} |Curandeira|8x|?
 | ![Selvagem](/assets/img/bg/gm/icons/selvagem.png){:height="35px"} | ![Xamã](/assets/img/bg/gm/icons/xama.png){:height="35px"} |Xamã|8x|?
