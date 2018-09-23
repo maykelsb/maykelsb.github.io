@@ -58,7 +58,7 @@ No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especia
  - **Resposta**: Respostas são habilidades que só podem ser utilizadas quando uma situação especial acontece no jogo, variando para cada habilidade;
  - **Especial**: As habilidades especiais são ativadas após ou durante a conclusão de uma missão.
  
- Ao ativar uma habilidade, avance uma posição na trilha corresponde ao caminho do herói.
+ Ao ativar uma habilidade, avance uma posição na trilha corresponde ao caminho do herói ativado.
 
 ### Alistamento ###
 Para realizar um recrutamento, descarte dois heróis iguais e compre da taverna um recruta do mesmo caminho dos heróis descartados. O novo recruta vai diretamente para o quartel de sua guilda.
