@@ -12,7 +12,7 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - 35 cartas de recrutas;
 - 1 tabuleiro central;
 - 6 tabuleiros de guildas, em cores diferentes;
-- 6 marcadores de pontos, em cores diferentes;
+- 36 marcadores de pontos, em 6 cores diferentes;
 - 6 marcadores de mestre da guilda, em cores diferentes;
 - 12 marcadores de tempo;
 - xx tokens de meio escudo, dividido em 10 metades diferentes (2 de cada escudo); 
@@ -28,7 +28,8 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - **Cartas de missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
 - **Cartas de recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
 - **Cartas de heróis**: Embaralhe as cartas de heróis e distribua 8 para cada jogador, coloque as restantes na área reservada;
-- **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada.
+- **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada;
+- **Caminhos**: Coloque um marcador de cada jogador na posição 0 das trilhas de cada caminho.
 
 # Fases do jogo #
 O jogo é dividido em rodadas. Cada rodada é dividida em: _drafts_, fase principal e manutenção. A fase principal é dividida em turnos, onde cada jogador pode executar até duas ações.
@@ -56,6 +57,8 @@ No jogo há os seguintes tipos de habilidades: Comum, Ataque, Resposta e Especia
  - **Ataque**: Os ataques são habilidades que prejudicam um dos demais jogadores.
  - **Resposta**: Respostas são habilidades que só podem ser utilizadas quando uma situação especial acontece no jogo, variando para cada habilidade;
  - **Especial**: As habilidades especiais são ativadas após a conclusão de missões.
+ 
+ Ao ativar uma habilidade, avance uma posição na trilha daquele caminho.
 
 ### Alistamento ###
 Para realizar um recrutamento, descarte dois heróis iguais e compre da taverna um recruta do mesmo caminho dos heróis descartados. O novo recruta vai diretamente para o quartel de sua guilda.
