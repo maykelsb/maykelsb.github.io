@@ -16,7 +16,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 |---|
 | ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Guerreiro](/assets/img/bg/gm/icons/guerreiro.png){:height="35px"} |Guerreiro|8x|Bloqueie um **Ataque**.|Resposta
 | ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Oficial](/assets/img/bg/gm/icons/oficial.png){:height="35px"} |Oficial|8x|Descarte até 3 heróis e compre a mesma quantidade.|Habilidade
-| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**|Habilidade
+| ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"} / ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|6x|Olhe as 3 missões do topo de um deck de missões, você pode cumprir uma delas.<br/>**Militar/Social**|Habilidade
 
 ## ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} Social ##
 
