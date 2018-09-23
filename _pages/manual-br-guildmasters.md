@@ -16,6 +16,7 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - 6 marcadores de mestre da guilda, em cores diferentes;
 - 12 marcadores de tempo;
 - 2 dados temporais, em cores diferentes;
+- 1 dado de herói (dH);
 - 1 marcador de sentido de draft;
 
 
