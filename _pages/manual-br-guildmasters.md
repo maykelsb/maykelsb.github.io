@@ -39,14 +39,14 @@ O _draft_ da início a uma rodada do jogo. Cada jogador compra quatro cartas de 
 **Exemplo**: Karen recebe 4 cartas, sendo elas 1 guerreiro, 2 ladinos e 1 assassino. Karen escolhe o assassino e passa os demais para Alex, sentado à sua direita. Enquanto Karen escolhe uma carta, Alex decide pegar 1 mago e passa as demais cartas para Felipe. Ao receber as cartas de Karen, Alex agora deve escolher entre 2 ladinos e 1 assassino.
 
 ## Fase principal ##
-Os jogadores realizam jogadas seguindo a ordem de turnos marcada no tabuleiro principal. Durante o seu turno, os jogadores ativos podem realizar até duas ações em qualquer ordem, sem repetí-las, ou pode escolher passar. Os jogadores inativos, aqueles que escolheram passar no último turno devem comprar uma carta de herói.
+Os jogadores realizam jogadas seguindo a ordem de turnos marcada no tabuleiro principal. Durante o seu turno, os jogadores ativos podem realizar até duas ações em qualquer ordem, sem repetí-las, ou pode escolher passar. Os jogadores inativos, aqueles que escolheram passar no seu turno anterior, devem comprar uma carta de herói. *(avaliar se ainda é necessário)*
 
 As disponíveis ações para o jogador ativo são:
  - Ativar a habilidade de um herói;
  - Alistar um recruta na taverna;
  - Cumprir uma missão.
 
-Se o jogador escolher passar, ele move seu **marcador de mestre de guilda** indicando que passou.
+Se o jogador escolher passar, ele deve mover seu **marcador de mestre de guilda** indicando que passou.
 
 **Importante**: Quando houver apenas um jogador ativo, ou seja, sem ter passado, este jogador poderá jogar apenas mais um turno e deverá passar.
 
@@ -67,9 +67,9 @@ Para cumprir uma missão, descarte de sua mão os heróis requeridos pela missã
 
 ## Manutenção ##
 Durante a manutenção faça o seguinte:
- - Os **marcardores de mestres de guilda** são retornados para a linha superior. Esta é a nova ordem de turnos na próxima fase principal;
+ - Os **marcardores de mestres de guilda** são retornados para a linha superior. A nova ordem de turnos é definida pela quantidade de pontos. Os jogadores com menos pontos tem prioridade;
  - O **marcador de sentido de *draft*** é invertido;
- - 
+ - Se a condição de final de jogo for atendida, os jogadores calculam a pontuação final.
 
 
 
