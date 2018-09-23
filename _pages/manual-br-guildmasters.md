@@ -15,9 +15,22 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - 6 marcadores de pontos, em cores diferentes;
 - 6 marcadores de mestre da guilda, em cores diferentes;
 - 12 marcadores de tempo;
+- xx tokens de meio escudo, dividido em 10 metades diferentes (2 de cada escudo); 
 - 2 dados temporais, em cores diferentes;
 - 1 dado de herói (dH);
 - 1 marcador de sentido de draft;
+
+# Preparação do jogo #
+
+(**imagem pendente**)
+
+- **Missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
+- **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
+- **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada;
+- **Recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**.
+
+
+
 
 
 # Referências #
@@ -32,7 +45,7 @@ Os heróis são divididos em cinco caminhos diferentes, alguns heróis trilham d
 | ![Militar](/assets/img/bg/gm/icons/militar.png){:height="35px"}![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Cavaleiro](/assets/img/bg/gm/icons/cavaleiro.png){:height="35px"} |Cavaleiro|Olhe 1..3 missões não reveladas. Você pode cumprir uma delas, mas não ganha o bonus.|Habilidade
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Bardo](/assets/img/bg/gm/icons/bardo.png){:height="35px"} |Bardo|Envie um bardo adicional em uma missão e receba meio token de influência.| Especial
 | ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"} | ![Nobre](/assets/img/bg/gm/icons/nobre.png){:height="35px"} |Nobre|Descarte uma trilha de missões e revele novas.| Habilidade
-| ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"}![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|Descarte os prendizes disponíveis e revele novos.|Habilidade
+| ![Social](/assets/img/bg/gm/icons/social.png){:height="35px"}![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Monge](/assets/img/bg/gm/icons/monge.png){:height="35px"} |Monge|Descarte todos os recrutas da taverna e revele novos.|Habilidade
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Mago](/assets/img/bg/gm/icons/mago.png){:height="35px"} |Mago|Descarte e copie uma habilidade ativada.|Resposta
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"} | ![Cronomancer](/assets/img/bg/gm/icons/cronomancer.png){:height="35px"} |Cronomancer|Coloque um marcador de tempo em 1..3 missão(ões).|Habilidade
 | ![Arcano](/assets/img/bg/gm/icons/arcano.png){:height="35px"}![Sombrios](/assets/img/bg/gm/icons/sombrio.png){:height="35px"} | ![necromancer](/assets/img/bg/gm/icons/necromancer.png){:height="35px"} |Necromancer|Olhe as 5 cartas do topo da pilha de descarte e coloque uma em sua mão.|Habilidade
