@@ -47,7 +47,7 @@ As disponíveis ações para o jogador ativo são:
  - Alistar um recruta na taverna;
  - Cumprir uma missão.
 
-Se o jogador escolher passar, ele deve mover seu **marcador de mestre de guilda** indicando que passou.
+Se o jogador escolher passar, ele deve mover seu **marcador de mestre da guilda** indicando que passou.
 
 **Importante**: Quando houver apenas um jogador ativo, ou seja, sem ter passado, este jogador poderá jogar apenas mais um turno e deverá passar.
 
@@ -72,14 +72,8 @@ Para cumprir uma missão, descarte de sua mão os heróis requeridos pela missã
 Durante a manutenção faça o seguinte:
  - Os **marcardores de mestres de guilda** são retornados para a linha superior. A nova ordem de turnos é definida pela quantidade de pontos. Os jogadores com menos pontos tem prioridade;
  - O **marcador de sentido de *draft*** é invertido;
+ - Revele missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span>, caso um dos jogadores já tenha atingido 10pts de fama;
  - Se a condição de final de jogo for atendida, os jogadores calculam a pontuação final.
-
-
-
-
-**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
-
-
 
 # Referências #
 ## Heróis ##
