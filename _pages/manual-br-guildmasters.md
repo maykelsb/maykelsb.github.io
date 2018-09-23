@@ -18,18 +18,35 @@ Cada jogador é o mestre de uma guilda e deve escolher sabiamente quais missões
 - xx tokens de meio escudo, dividido em 10 metades diferentes (2 de cada escudo); 
 - 2 dados temporais, em cores diferentes;
 - 1 dado de herói (dH);
-- 1 marcador de sentido de draft;
+- 1 marcador de sentido do *draft*;
 
 # Preparação do jogo #
 
 (**imagem pendente**)
 
-- **Cartas de missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
 - **Guildas**: Os jogadores escolhem sua guilda preferida ou sorteam as guildas entre si;
+- **Cartas de missões**: Separe as cartas de missões por classe, e embaralhe cada pilha separadamente. Revele 3 missões de classe <span class="glyphicon glyphicon-star"></span> e 2 missões de classe <span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span> em suas respectivas trilhas;
 - **Cartas de recrutas**: Embaralhe as cartas de recruta os coloque na reserva, ao lado da **Taverna**. Revele uma quantidade de recrutas igual ao número de jogadores +1 e os coloque na **Taverna**;
 - **Cartas de heróis**: Embaralhe as cartas de heróis e distribua 8 para cada jogador, coloque as restantes na área reservada;
 - **Ordem dos jogadores**: Ordene os jogadores com base em sua última visita a uma guilda, aquele que fez a visita a menos tempo, é o primeiro. Coloquem os **marcadores de mestre da guilda**, em ordem, na área apropriada.
 
+# Fases do jogo #
+O jogo é dividido em rodadas. Cada rodada é dividida em: _drafts_, fase principal e manutenção. A fase principal é dividida em turnos, onde cada jogador pode executar até duas ações.
+
+## Draft ##
+O _draft_ da início a uma rodada do jogo. Cada jogador compra quatro cartas de heróis (exceto na primeira rodada, onde cada jogador recebeu 8 cartas), escolhe uma para si e passa as demais para a direita ou esquerda, de acordo com o **marcador de sentido do *draft***. Isso se repete até que todas as cartas tenham sido escolhidas.
+
+**Exemplo**: Karen recebe 4 cartas, sendo elas 1 guerreiro, 2 ladinos e 1 assassino. Karen escolhe o assassino e passa os demais para Alex, sentado à sua direita. Enquanto Karen escolhe uma carta, Alex decide pegar 1 mago e passa as demais cartas para Felipe. Ao receber as cartas de Karen, Alex agora deve escolher entre 2 ladinos e 1 assassino.
+
+## Fase principal ##
+Os jogadores realizam jogadas seguindo a ordem de turnos marcada no tabuleiro principal. Durante o seu turno, o jogadores pode realizar até duas das seguintes ações, sem repetí-las:
+ - Ativar a habilidade de um herói;
+ - Alistar um recruta na taverna;
+ - Cumprir uma missão.
+
+## Manutenção ##
+
+**IMPORTANTE**: As missões de nível 3 são reveladas quando uma guilda atinge 10 pontos de fama.
 
 
 
